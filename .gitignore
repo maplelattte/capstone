@@ -1,0 +1,12 @@
+# Build outputs and generated headers
+build/
+vmlinux.h
+
+# Python bytecode and cache
+__pycache__/
+*.pyc
+
+# OS/Editor temporary files
+.DS_Store
+*.swp
+*~
